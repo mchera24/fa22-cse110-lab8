@@ -1,6 +1,6 @@
 # Lab 8 - Unit & E2E Testing
 \
-Done By: Mandeep Chera\
+Done By: Mandeep Chera
 
 1.) I would put my automated tests within a GitHub action when code is pushed. I would do this because it is crucial to know if the code being pushed to the repository actually works as intended. In the case it does not, the test will let you know of the errors and it will not push the error infested code to the repository thus protecting it from problems.\
 \
